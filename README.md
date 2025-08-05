@@ -61,9 +61,3 @@ To build, evaluate, and compare the performance of:
 - `boston.csv`:Dataset used
 - `Boston_Housing_Regression_Models.ipynb`:**Full analysis and model Colab notebook name**
 - `README.md`: Project description and results
----
-
-## Author
-
-This project was built as a machine learning regression practice and exploration of model performance on tabular data.
-
